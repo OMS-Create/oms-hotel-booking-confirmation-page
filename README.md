@@ -34,9 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Solution URL](https://oms-hotel-booking-confirmation-page.vercel.app/)
+- Live Site URL: [Live site URL](https://github.com/OMS-Create/oms-hotel-booking-confirmation-page/)
 ## My process
 
 ### Built with
